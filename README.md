@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, Welcome to jayee's profile 👋
 
-<!--
-**jayeew/jayeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on HeBUt.
+- 🌱 I’m currently learning graph neural networks (GNNs).
+- 👯 Feel free to contact me: jayeew@qq.com
+- 🤔 💬 📫 😄 ⚡ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![](https://komarev.com/ghpvc/?username=jayeew)
+
+
+[![my GitHub states](https://github-readme-stats.vercel.app/api?username=jayeew&show_icons=true&theme=buefy&count_private=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
