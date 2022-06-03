@@ -2,7 +2,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/w-xuefeng/count.svg?" /><br>
+  <img src="https://profile-counter.glitch.me/jayeew/count.svg?" /><br>
   Welcome to my github profile！(●'◡'●)
 </p>
 
