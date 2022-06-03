@@ -16,7 +16,7 @@
 
   ![](https://komarev.com/ghpvc/?username=jayeew)
 
-  - 流水不争先，争滔滔不绝。
+  ![今日诗词](https://v2.jinrishici.com/one.svg?color=DodgerBlue)
   
   [![my GitHub states](https://github-readme-stats.vercel.app/api?username=jayeew&show_icons=true&theme=buefy&count_private=true)]()
 
