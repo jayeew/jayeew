@@ -2,7 +2,7 @@
 
 <p align="center">
   Visitor count<br>
-  ![](https://komarev.com/ghpvc/?username=jayeew)<br>
+  <img src="https://profile-counter.glitch.me/jayeew/count.svg?" /><br>
   Welcome to my github profile！(●'◡'●)
 </p>
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-  
+  ![](https://komarev.com/ghpvc/?username=jayeew)
 
-
+  ![今日诗词](https://v2.jinrishici.com/one.svg?color=DodgerBlue)
   [![my GitHub states](https://github-readme-stats.vercel.app/api?username=jayeew&show_icons=true&theme=buefy&count_private=true)]()
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
