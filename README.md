@@ -6,7 +6,7 @@
   Welcome to my github profile！(●'◡'●)
 </p>
 
-- 🔭 First-year graduate school in TianJin.
+- 🔭 Second-year graduate school in TianJin.
 - 🌱 I’m currently learning graph neural networks (GNNs).
 - 👯 Feel free to contact me: jayeew@qq.com
 - 🤔 💬 📫 😄 ⚡ 
